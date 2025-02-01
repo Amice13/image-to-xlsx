@@ -1,0 +1,32 @@
+{
+  "name": "image-to-xlsx",
+  "version": "1.0.0",
+  "description": "A lightweight browser library for converting JPG and PNG images into XLSX (Excel) files",
+  "main": "./lib/index",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amice13/image-to-xlsx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amice13/image-to-xlsx/issues"
+  },
+  "keywords": [
+    "jpg",
+    "png",
+    "xlsx",
+    "convert"
+  ],
+  "author": {
+    "name": "Kyrylo Zakharov"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Amice13/image-to-xlsx#readme",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
